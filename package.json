@@ -1,0 +1,25 @@
+{
+  "version": "0.1",
+  "name": "@gridsome/source-wordpress-event",
+  "description": "WordPress source for Gridsome with Tribe Events plugin fields",
+  "homepage": "https://github.com/gridsome/gridsome/tree/master/packages/source-wordpress#readme",
+  "repository": "https://github.com/gridsome/gridsome/tree/master/packages/source-wordpress",
+  "main": "index.js",
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "gridsome-source",
+    "wordpress"
+  ],
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.10",
+    "p-map": "^1.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=8.3"
+  }
+}
