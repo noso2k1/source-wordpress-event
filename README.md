@@ -2,7 +2,7 @@
 
 Custom WordPress source for Gridsome with Tribe Events plugin fields
 
-Based on @gridsome/source-wordpress plugin version 0.1.1
+Based on [@gridsome/source-wordpress](https://github.com/gridsome/gridsome/tree/master/packages/source-wordpress) plugin version 0.2.1
 
 To install:
 
