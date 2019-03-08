@@ -141,6 +141,8 @@ class WordPressSource {
           fields.startTime = post.eventDetails.startTime
           fields.venueName = post.eventDetails.venueName
           fields.venueNameAddress = post.eventDetails.venueNameAddress
+          fields.venueAddress = post.eventDetails.venueAddress
+          fields.venueFullAddress = post.eventDetails.venueFullAddress
           fields.venueWebsite = post.eventDetails.venueWebsite
           post.date = post.eventDetails.startDate ? post.eventDetails.startDate : null
         }
