@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.2.0",
   "name": "@gridsome/source-wordpress-event",
   "description": "WordPress source for Gridsome with Tribe Events plugin fields",
   "homepage": "https://github.com/noso2k1/source-wordpress-event#readme",
